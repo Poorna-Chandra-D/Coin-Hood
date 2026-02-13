@@ -31,7 +31,6 @@
 - **Google OAuth** support for seamless login
 - Secure password reset and recovery
 
-
 ### 💼 **Portfolio Management**
 - Real-time portfolio tracking and valuation
 - Detailed transaction history and activity logs
