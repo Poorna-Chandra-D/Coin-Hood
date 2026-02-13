@@ -25,11 +25,7 @@
 
 ## ✨ Features
 
-### 🔐 **Security First**
-- **Two-Factor Authentication (2FA)** for enhanced account security
-- **Spring Security** integration with JWT token authentication
-- **Google OAuth** support for seamless login
-- Secure password reset and recovery
+
 
 ### 💼 **Portfolio Management**
 - Real-time portfolio tracking and valuation
