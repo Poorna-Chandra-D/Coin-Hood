@@ -52,7 +52,8 @@
 ### 🎨 **Modern UI/UX**
 - Dark mode optimized interface
 - Responsive design for all devices
-
+- Smooth animations with Tailwind CSS
+- Custom components built with Shadcn/UI
 
 ### 👥 **Role-Based Access**
 - User and Admin role separation
