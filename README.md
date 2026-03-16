@@ -102,7 +102,7 @@ Ensure you have the following installed:
 
 2. **Configure Database**
    
-   Update `application.properties` with your MySQL credentials:
+   Update `application.properties` with your MySQL credentials: 
    ```properties
    spring.datasource.url=jdbc:mysql://localhost:3306/coinhood
    spring.datasource.username=your_username
