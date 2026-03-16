@@ -208,7 +208,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Poorna Chandra D**
 
-- GitHub: [@Poorna-Chandra-D](https://github.com/Poorna-Chandra-D)
+- GitHub: [@Poorna-Chandra-D](https://github.com/Poorna-Chandra-D) 
 
 ## 🙏 Acknowledgments
 
